@@ -1,0 +1,28 @@
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\ApplicationIcon.png
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\Background.png
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\CharlieSaccoApp.dll
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\CharlieSaccoApp.pdb
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\AppManifest.xaml
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\CharlieSaccoApp.xap
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\App.g.i.cs
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\MainPage.g.i.cs
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\CharlieSaccoApp.g.resources
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\CharlieSaccoApp.dll
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\CharlieSaccoApp.pdb
+c:\users\emobilis\documents\visual studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\XapCacheFile.xml
+C:\Users\eMobilis\Documents\Visual Studio 2010\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\search.g.i.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\ApplicationIcon.png
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\Background.png
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\CharlieSaccoApp.dll
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\CharlieSaccoApp.pdb
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\AppManifest.xaml
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\CharlieSaccoApp.xap
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\App.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\MainPage.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\search.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\CharlieSaccoApp.g.resources
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\CharlieSaccoApp.dll
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\CharlieSaccoApp.pdb
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\obj\Debug\XapCacheFile.xml
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\CharlieSaccoApp.dll.CodeAnalysisLog.xml
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\CharlieSaccoApp\CharlieSaccoApp\Bin\Debug\CharlieSaccoApp.dll.lastcodeanalysissucceeded
